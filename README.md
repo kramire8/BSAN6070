@@ -2,7 +2,7 @@
 
 An Exploratory Data Analysis for air pollution in India through summarized details and visual methods. 
 
-**Data Overview** 
+**Data Overview** <br />
 This dataset is released by the Ministry of Environment and Forests and Central Pollution
 Control Board of India under the National Data Sharing and Accessibility Policy
 (NDSAP), using this one can explore India’s air pollution levels at a more granular scale.
