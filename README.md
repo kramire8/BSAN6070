@@ -20,6 +20,6 @@ from sklearn.impute import SimpleImputer <br />
 import matplotlib.pyplot as plt <br />
 
 ## Contributors 
-Author - Karina Ramirez
-The project outline was was provided by Dr. Arin Brahma at Loyola Marymount University for the Intro to Machine Learning course.
-The dataset used was provided by Kaggle.
+Author: Karina Ramirez <br />
+The project outline was was provided by Dr. Arin Brahma at Loyola Marymount University for the Intro to Machine Learning course. <br />
+The dataset used was provided by Kaggle: https://www.kaggle.com/shrutibhargava94/india-air-quality-data. <br />
