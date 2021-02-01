@@ -14,10 +14,10 @@ Control Board of India under the National Data Sharing and Accessibility Policy
 5. Analytic Findings
 
 ## Packages 
-import pandas as pd 
-import numpy as np
-from sklearn.impute import SimpleImputer
-import matplotlib.pyplot as plt 
+import pandas as pd <br />
+import numpy as np <br />
+from sklearn.impute import SimpleImputer <br />
+import matplotlib.pyplot as plt <br />
 
 ## Contributors 
 Author - Karina Ramirez
